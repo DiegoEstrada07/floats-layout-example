@@ -75,6 +75,34 @@ div img{
     width: 50px;
 }
 
+.flote-image{
+    height: 150px;
+    width: 175px;
+    float: left;
+}
+
+.flote-image2{
+    float: right;
+    width: 350px;
+    height: 200px;
+}
+
+.flote-div{
+    float: left;
+    width: 350px;
+    height: 200px;
+    overflow: scroll;
+}
+
+.article{
+    
+    color: black;
+}
+
+.p-clear{
+    clear: left;
+}
+
 .sticky {
     flex-direction: column;
     position: sticky;
@@ -142,7 +170,7 @@ section nav ul li{
 }
 
 .p2{
-    background-color: greenyellow;
+    background-color: white;
     height: 300px;
 }
 
